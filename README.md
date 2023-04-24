@@ -1,4 +1,4 @@
-# Data Bias in Translation Algorithms
+# Data Bias in Algorithms as a Result of Language
 
 # API Documentation
 
